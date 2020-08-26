@@ -16,6 +16,3 @@ Then start react application
 ```
 $ cd frontend/ && npm start
 ```
-
-# Contributing
-Feel free to fix, suggest new features, clean some code or make the ugly frontend design prettier!
